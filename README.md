@@ -11,4 +11,4 @@
  - Repository: https://github.com/Atikin-NT/Escrow
  - Presentation on devpost: https://devpost.com/software/web3-escrow-service
  
-3. My own vpn bot) I set up a VPS server with wireguard and created a simple telegram bot with python using the aiogram library. Here is the bot -> https://t.me/wolf0vpn_bot
+3. Right now I'm working on a VPN bot project: https://github.com/Atikin-NT/WolfVPN
